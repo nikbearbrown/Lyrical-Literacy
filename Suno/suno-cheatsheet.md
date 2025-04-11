@@ -1,4 +1,4 @@
-# Comprehensive Suno Cheat Sheet          
+# Suno Cheat Sheet          
           
 ## 1. Song Structure Metatags          
 --------------------------          
