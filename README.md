@@ -60,6 +60,7 @@ The project maintains rigorous evaluation protocols, collecting both quantitativ
 Through this comprehensive approach, Lyrical Literacy aims to expand our understanding of music's role in cognitive development while creating accessible, engaging tools that support learning across diverse populations and contexts.
 
 ## Research Papers
+[https://github.com/nikbearbrown/Lyrical-Literacy/tree/main/Research](https://github.com/nikbearbrown/Lyrical-Literacy/tree/main/Research)
 
 ## 1. The Neuroscience of Singing: A Comprehensive Survey of Research and Applications
 
