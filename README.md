@@ -61,7 +61,7 @@ Through this comprehensive approach, Lyrical Literacy aims to expand our underst
 
 ## Creative Projects
 
-Ramayana - Kusma & Manya
+Ramayana - Kusuma & Manya
 
 ## Research Papers
 [https://github.com/nikbearbrown/Lyrical-Literacy/tree/main/Research](https://github.com/nikbearbrown/Lyrical-Literacy/tree/main/Research)
