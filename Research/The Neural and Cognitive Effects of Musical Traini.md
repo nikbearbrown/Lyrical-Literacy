@@ -900,4 +900,321 @@ The emotional components of singing involve several key neural regions:
 
 3. **Anterior cingulate cortex**: Active during the integration
 
-4. 
+## 7. Conclusion and Practical Implications
+
+### 7.1 Summary of Key Findings
+
+**Table 13: Summary of Key Neural and Cognitive Effects of Musical Training and Singing**
+
+| Domain | Key Findings | Strength of Evidence | Practical Implications |
+|--------|--------------|----------------------|------------------------|
+| **Structural Brain Changes** | Increased gray matter volume in auditory, motor, and frontal regions; enhanced white matter connectivity in corpus callosum and arcuate fasciculus | Strong (Multiple neuroimaging studies with converging evidence; longitudinal studies with controls) | Early music education may establish optimal neural architecture for cognitive development; lifelong musical engagement may promote maintenance of brain structure |
+| **Language Processing** | Enhanced phonemic discrimination; superior speech-in-noise perception; better second language pronunciation; improved prosodic processing | Strong (Consistent behavioral and neurophysiological evidence across age groups) | Music-based interventions for language disorders; musical components in second language instruction; targeted interventions for reading difficulties |
+| **Executive Functions** | Better working memory; enhanced inhibitory control; superior cognitive flexibility; more efficient attentional allocation | Moderate to Strong (Growing evidence from both cross-sectional and longitudinal studies) | Music education as cognitive enhancement; music-based interventions for executive function deficits; potential applications for ADHD |
+| **Academic Achievement** | Positive correlations with reading and mathematics; particularly strong benefits for disadvantaged students | Moderate (Consistent correlational evidence; growing causal evidence from interventions) | Prioritizing music education in schools serving disadvantaged populations; integration of musical elements into academic curricula |
+| **Emotional and Social Processing** | Enhanced prosodic expression; improved emotional regulation; increased social bonding during group activities | Moderate (Consistent across studies, but mechanisms still being clarified) | Group singing interventions for social isolation; singing therapy for emotional regulation disorders; choir programs for community building |
+
+This comprehensive survey has documented substantial evidence that musical training and singing induce significant changes in brain structure and function, with transfer effects to non-musical domains. These effects are observed across the lifespan, from early childhood development to cognitive aging, and involve multiple neural systems including auditory processing, motor control, executive function, and emotional regulation.
+
+The evidence is particularly strong for structural brain changes and language processing enhancements, with numerous neuroimaging studies documenting increased gray matter volume in auditory, motor, and executive regions, along with enhanced white matter connectivity. These structural adaptations support functional improvements in auditory discrimination, phonological processing, and speech perception—skills fundamental to language acquisition and literacy development.
+
+The evidence for executive function enhancement is also robust, with musicians consistently outperforming non-musicians on measures of working memory, inhibitory control, and cognitive flexibility. These advantages appear to underlie the correlations between musical training and academic achievement observed across multiple studies.
+
+The mechanisms underlying these transfer effects include rhythmic entrainment, which enhances temporal processing critical for language; dopaminergic reward, which sustains motivation and facilitates neuroplasticity; and multimodal integration, which strengthens connections between sensory, motor, and cognitive systems. The timing of musical training interacts with developmental trajectories, with early training producing more pronounced structural effects but meaningful changes possible throughout life.
+
+Singing emerges as a particularly powerful form of musical engagement, combining the cognitive benefits of music with the language and emotional processing demands of vocal production. The unique neural dynamics of singing provide special opportunities for therapeutic applications in language disorders, emotional regulation, and social connection.
+
+### 7.2 Educational Applications
+
+**Figure 11: Implementation Framework for Music in Educational Settings**
+
+```
+                               ASSESSMENT
+                          +------------------+
+                          | • Baseline skills|
+                          | • Learning goals |
+                          | • Individual     |
+                          |   differences    |
+                          +--------+---------+
+                                   |
+                                   v
+            +--------------------+ | +-------------------+
+            |                    | | |                   |
+            | CURRICULUM DESIGN  | | | TEACHER TRAINING  |
+            | • Age-appropriate  | | | • Neuroscience    |
+            |   activities       | | |   foundations     |
+            | • Cross-curricular | | | • Implementation  |
+            |   connections      | | |   strategies      |
+            | • Progressive      | | | • Assessment      |
+            |   challenge        | | |   methods         |
+            +--------------------+ | +-------------------+
+                                   |
+                                   v
+                          +--------+---------+
+                          | IMPLEMENTATION   |
+                          | • Consistent     |
+                          |   scheduling     |
+                          | • Integrated     |
+                          |   approach       |
+                          | • Monitoring     |
+                          +--------+---------+
+                                   |
+                                   v
+                          +--------+---------+
+                          | EVALUATION       |
+                          | • Cognitive      |
+                          |   outcomes       |
+                          | • Academic       |
+                          |   transfer       |
+                          | • Social-emotional|
+                          |   benefits       |
+                          +------------------+
+```
+
+The research findings support several key recommendations for educational applications:
+
+**Early Childhood Education**:
+- Integrate daily musical activities focusing on rhythm, movement, and singing
+- Emphasize active engagement rather than passive listening
+- Connect musical activities explicitly to emergent literacy skills
+- Include both structured and exploratory musical experiences
+
+**Primary Education**:
+- Maintain music as a core rather than peripheral subject
+- Create explicit connections between musical training and challenging cognitive skills
+- Develop cross-curricular programs that integrate musical elements with language arts and mathematics
+- Implement targeted music interventions for struggling readers
+
+**Secondary Education**:
+- Offer diverse musical opportunities to maintain engagement through adolescence
+- Connect musical skill development with broader cognitive and social development
+- Use ensemble participation to develop executive functions and social skills
+- Incorporate technology and contemporary music to enhance relevance
+
+**Higher Education**:
+- Develop interdisciplinary programs connecting music with neuroscience, psychology, and education
+- Implement singing-based activities to reduce stress and enhance cognitive function
+- Offer musical activities as part of general education requirements
+- Utilize group music-making to build community among diverse student populations
+
+**Special Education**:
+- Develop specialized musical interventions targeting specific neurodevelopmental challenges
+- Incorporate rhythmic activities for students with attentional and motor difficulties
+- Implement singing-based interventions for speech and language disorders
+- Use musical engagement to build social connection for students with autism spectrum disorders
+
+Teacher training represents a critical component of successful implementation. Educators need understanding of the neural foundations of music-cognition relationships, specific strategies for connecting musical activities to academic skills, and assessment methods that capture both musical development and transfer effects.
+
+### 7.3 Clinical Applications
+
+**Table 14: Clinical Applications of Music Training and Singing**
+
+| Clinical Population | Intervention Approach | Key Mechanisms | Evidence Quality |
+|---------------------|------------------------|-----------------|-------------------|
+| **Post-Stroke Aphasia** | Melodic Intonation Therapy; rhythmic speech cueing | Right-hemisphere language homologue recruitment; rhythm-based temporal prediction | Strong (Multiple RCTs; neuroimaging evidence; replicated across centers) |
+| **Developmental Language Disorder** | Rhythmic training; phonological awareness through music | Enhanced temporal processing; stabilized neural oscillations; improved phonemic categorization | Moderate (Growing evidence base; some controlled studies) |
+| **Parkinson's Disease** | Rhythmic auditory stimulation; singing for respiratory control | Basal ganglia engagement through external cueing; enhanced respiratory control | Strong (Well-established effects on gait parameters; growing evidence for vocal benefits) |
+| **Dementia** | Singing interventions; musical memory stimulation | Preserved musical memory networks; enhanced social connection; mood regulation | Moderate (Consistent benefits in observational studies; mechanisms still being clarified) |
+| **Autism Spectrum Disorder** | Interactive music therapy; singing for prosodic enhancement | Social neural network activation; enhanced auditory-motor integration; emotion regulation | Moderate (Growing evidence base; heterogeneity in intervention approaches) |
+| **ADHD** | Music-based attention training; rhythmic entrainment exercises | Enhanced temporal prediction; attentional regulation; motivational engagement | Preliminary (Limited controlled studies; promising mechanistic foundations) |
+
+The neural and cognitive effects of musical training and singing suggest several promising clinical applications:
+
+**Neurological Rehabilitation**:
+- Implement melodic intonation therapy for post-stroke aphasia, leveraging right-hemisphere language homologues
+- Develop rhythmic auditory stimulation protocols for gait rehabilitation in Parkinson's disease and stroke
+- Use musical training to support cognitive rehabilitation following traumatic brain injury
+- Implement singing interventions for respiratory function in conditions like COPD and post-COVID rehabilitation
+
+**Developmental Disorders**:
+- Design music-based interventions for children with developmental language disorder, targeting rhythmic processing
+- Implement singing protocols for children with autism spectrum disorder to enhance prosodic processing
+- Develop music-based attention training for ADHD, leveraging music's attentional demands
+- Create accessible musical experiences for individuals with intellectual disabilities to promote cognitive development
+
+**Psychiatric Applications**:
+- Implement group music activities to reduce social isolation and enhance emotional regulation in mood disorders
+- Develop music-based interventions targeting auditory processing and social cognition in schizophrenia
+- Use rhythmic activities to support executive function in addiction recovery
+- Implement singing protocols to reduce anxiety through breath control and emotional expression
+
+**Aging and Neurodegeneration**:
+- Promote musical engagement among older adults as a form of cognitive reserve
+- Implement group singing programs for individuals with dementia to maintain social connection and emotional expression
+- Develop specialized music-based interventions targeting specific cognitive domains affected by aging
+- Consider musical training as a preventative approach for age-related cognitive decline
+
+Successful clinical implementation requires interdisciplinary collaboration between music therapists, rehabilitation specialists, neuroscientists, and other clinicians. Standardized protocols, appropriate outcome measures, and consideration of individual differences are essential for translating research findings into effective clinical practice.
+
+### 7.4 Future Research Directions
+
+**Figure 12: Future Research Priorities Matrix**
+
+```
+                  SHORTER TERM                                  LONGER TERM
+               (1-3 years)                                    (4-10 years)
+  +--------------------------------+          +----------------------------------+
+  |                                |          |                                  |
+  | OPTIMIZATION STUDIES           |          | LONGITUDINAL NEURODEVELOPMENTAL  |
+  | • Dose-response relationships  |          | STUDIES                          |
+  | • Intervention components      |          | • Tracking brain-behavior        |
+  | • Individual difference factors|          |   trajectories                   |
+  | • Teaching method comparisons  |          | • Sensitive period investigations |
+  |                                |          | • Gene-environment interactions  |
+  +--------------------------------+          +----------------------------------+
+  |                                |          |                                  |
+  | MECHANISM CLARIFICATION        |          | PREVENTION AND NEUROPROTECTION   |
+  | • Neural synchronization       |          | RESEARCH                         |
+  |   processes                    |          | • Music as cognitive reserve     |
+  | • Neurochemical underpinnings  |          | • Preventative applications      |
+  | • Functional connectivity      |          | • Long-term protective effects   |
+  |   dynamics                     |          | • Combination with other         |
+  |                                |          |   interventions                  |
+  +--------------------------------+          +----------------------------------+
+  |                                |          |                                  |
+  | TECHNOLOGY INTEGRATION         |          | POPULATION-LEVEL IMPLEMENTATION  |
+  | • Digital assessment tools     |          | • Educational policy studies     |
+  | • Adaptive music technology    |          | • Cost-effectiveness analyses    |
+  | • Remote intervention delivery |          | • Cultural adaptation research   |
+  | • Real-time neural feedback    |          | • Community implementation models|
+  |                                |          |                                  |
+  +--------------------------------+          +----------------------------------+
+```
+
+While substantial evidence supports the neural and cognitive benefits of musical training, several important questions remain for future research:
+
+Key priorities include:
+
+1. **Optimization research**: Determining the most effective components, durations, and intensities of music-based interventions for specific outcomes; identifying moderating factors that influence response to musical training.
+
+2. **Mechanism clarification**: More precisely delineating the neural, cognitive, and motivational mechanisms underlying transfer effects, including the role of neural synchronization, neurochemical processes, and functional connectivity changes.
+
+3. **Individual differences**: Understanding how factors such as age, prior experience, genetic profile, and cognitive abilities influence response to musical training and transfer effects.
+
+4. **Longitudinal neurodevelopmental studies**: Tracking the long-term effects of musical training on brain development and cognitive function across the lifespan, with particular attention to sensitive periods and cumulative effects.
+
+5. **Technology integration**: Developing and evaluating technology-enhanced approaches to musical training, including adaptive systems, remote interventions, and real-time neurophysiological feedback.
+
+6. **Prevention and neuroprotection**: Investigating music's potential role in building cognitive reserve and preventing age-related cognitive decline or neurodegenerative conditions.
+
+7. **Population-level implementation**: Studying the most effective approaches for implementing music-based interventions at scale, including educational policy, healthcare integration, and community-based models.
+
+Methodological improvements are also needed, including more randomized controlled trials, more precise outcome measures capturing both near and far transfer effects, and greater integration of neuroimaging, behavioral, and qualitative assessments.
+
+### 7.5 Concluding Perspectives
+
+The evidence surveyed in this paper reveals music as a uniquely powerful driver of neuroplastic change, with effects extending far beyond the development of musical skills. The multisensory, emotionally engaging, and cognitively demanding nature of musical activities creates optimal conditions for promoting positive brain adaptations throughout the lifespan.
+
+Perhaps most importantly, musical training represents a joyful approach to cognitive enhancement—one that participants typically find intrinsically rewarding rather than effortful. This motivational aspect may be among music's most valuable features as an intervention, as it supports the sustained engagement necessary for meaningful neuroplastic change.
+
+As our understanding of the neural and cognitive effects of musical training continues to advance, we can develop increasingly targeted approaches that leverage music's unique properties to promote brain health, enhance cognitive function, and support human development across the lifespan. In this way, the ancient human practice of music-making reveals itself not merely as cultural expression, but as a powerful tool for shaping the brain itself.
+
+## References
+
+Bangert, M., & Schlaug, G. (2006). Specialization of the specialized in features of external human brain morphology. European Journal of Neuroscience, 24(6), 1832-1834.
+
+Bengtsson, S. L., Nagy, Z., Skare, S., Forsman, L., Forssberg, H., & Ullén, F. (2005). Extensive piano practicing has regionally specific effects on white matter development. Nature Neuroscience, 8(9), 1148-1150.
+
+Bermudez, P., Lerch, J. P., Evans, A. C., & Zatorre, R. J. (2009). Neuroanatomical correlates of musicianship as revealed by cortical thickness and voxel-based morphometry. Cerebral Cortex, 19(7), 1583-1596.
+
+Bhide, A., Power, A., & Goswami, U. (2013). A rhythmic musical intervention for poor readers: A comparison of efficacy with a letter-based intervention. Mind, Brain, and Education, 7(2), 113-123.
+
+Bialystok, E., & DePape, A. M. (2009). Musical expertise, bilingualism, and executive functioning. Journal of Experimental Psychology: Human Perception and Performance, 35(2), 565-574.
+
+Bidelman, G. M., & Krishnan, A. (2010). Effects of reverberation on brainstem representation of speech in musicians and non-musicians. Brain Research, 1355, 112-125.
+
+Bidelman, G. M., Weiss, M. W., Moreno, S., & Alain, C. (2014). Coordinated plasticity in brainstem and auditory cortex contributes to enhanced categorical speech perception in musicians. European Journal of Neuroscience, 40(4), 2662-2673.
+
+Butzlaff, R. (2000). Can music be used to teach reading? Journal of Aesthetic Education, 34(3/4), 167-178.
+
+Cirelli, L. K., Trehub, S. E., & Trainor, L. J. (2020). Rhythm and melody as social signals for infants. Annals of the New York Academy of Sciences, 1453(1), 153-169.
+
+Cooper, A., & Wang, Y. (2012). The influence of linguistic and musical experience on Cantonese word learning. The Journal of the Acoustical Society of America, 131(6), 4756-4769.
+
+Corrigall, K. A., & Trainor, L. J. (2011). Associations between length of music training and reading skills in children. Music Perception, 29(2), 147-155.
+
+Diaz Abrahan, V., Shifres, F., & Justel, N. (2019). Cognitive benefits from a musical activity in older adults. Frontiers in Psychology, 10, 652.
+
+Dos Santos-Luiz, C., Mónico, L. S. M., Almeida, L. S., & Coimbra, D. (2016). Exploring the long-term associations between adolescents' music training and academic achievement. Musicae Scientiae, 20(4), 512-527.
+
+Ettlinger, M., Margulis, E. H., & Wong, P. C. M. (2014). Implicit memory in music and language. Frontiers in Psychology, 5, 1185.
+
+Flaugnacco, E., Lopez, L., Terribili, C., Zoia, S., Buda, S., Tilli, S., ... & Schön, D. (2015). Rhythm perception and production predict reading abilities in developmental dyslexia. Frontiers in Human Neuroscience, 9, 392.
+
+George, E. M., & Coch, D. (2011). Music training and working memory: An ERP study. Neuropsychologia, 49(5), 1083-1094.
+
+Geretsegger, M., Elefant, C., Mössler, K. A., & Gold, C. (2014). Music therapy for people with autism spectrum disorder. Cochrane Database of Systematic Reviews, 6, CD004381.
+
+Guhn, M., Emerson, S. D., & Gouzouasis, P. (2020). A population-level analysis of associations between school music participation and academic achievement. Journal of Educational Psychology, 112(2), 308-328.
+
+Halwani, G. F., Loui, P., Rüber, T., & Schlaug, G. (2011). Effects of practice and experience on the arcuate fasciculus: Comparing singers, instrumentalists, and non-musicians. Frontiers in Psychology, 2, 156.
+
+Herdener, M., Esposito, F., di Salle, F., Boller, C., Hilti, C. C., Habermeyer, B., ... & Cattapan-Ludewig, K. (2010). Musical training induces functional plasticity in human hippocampus. Journal of Neuroscience, 30(4), 1377-1384.
+
+Hutchinson, S., Lee, L. H. L., Gaab, N., & Schlaug, G. (2003). Cerebellar volume of musicians. Cerebral Cortex, 13(9), 943-949.
+
+Hyde, K. L., Lerch, J., Norton, A., Forgeard, M., Winner, E., Evans, A. C., & Schlaug, G. (2009). The effects of musical training on structural brain development: A longitudinal study. Annals of the New York Academy of Sciences, 1169(1), 182-186.
+
+Imfeld, A., Oechslin, M. S., Meyer, M., Loenneker, T., & Jäncke, L. (2009). White matter plasticity in the corticospinal tract of musicians: A diffusion tensor imaging study. NeuroImage, 46(3), 600-607.
+
+Jaschke, A. C., Honing, H., & Scherder, E. J. (2018). Longitudinal analysis of music education on executive functions in primary school children. Frontiers in Neuroscience, 12, 103.
+
+Keeler, J. R., Roth, E. A., Neuser, B. L., Spitsbergen, J. M., Waters, D. J., & Vianney, J. M. (2015). The neurochemistry and social flow of singing: Bonding and oxytocin. Frontiers in Human Neuroscience, 9, 518.
+
+Kleber, B., Veit, R., Moll, C. V., Gaser, C., Birbaumer, N., & Lotze, M. (2016). Voxel-based morphometry in opera singers: Increased gray-matter volume in right somatosensory and auditory cortices. NeuroImage, 133, 477-483.
+
+Kraus, N., Slater, J., Thompson, E. C., Hornickel, J., Strait, D. L., Nicol, T., & White-Schwoch, T. (2014). Music enrichment programs improve the neural encoding of speech in at-risk children. Journal of Neuroscience, 34(36), 11913-11918.
+
+Marques, C., Moreno, S., Castro, S. L., & Besson, M. (2007). Musicians detect pitch violation in a foreign language better than nonmusicians: Behavioral and electrophysiological evidence. Journal of Cognitive Neuroscience, 19(9), 1453-1463.
+
+Moreno, S., Marques, C., Santos, A., Santos, M., Castro, S. L., & Besson, M. (2009). Musical training influences linguistic abilities in 8-year-old children: More evidence for brain plasticity. Cerebral Cortex, 19(3), 712-723.
+
+Oechslin, M. S., Gschwind, M., & James, C. E. (2018). Tracking training-related plasticity by combining fMRI and DTI: The right hemisphere ventral stream mediates musical syntax processing. Cerebral Cortex, 28(4), 1209-1218.
+
+Pallesen, K. J., Brattico, E., Bailey, C. J., Korvenoja, A., Koivisto, J., Gjedde, A., & Carlson, S. (2010). Cognitive control in auditory working memory is enhanced in musicians. PloS One, 5(6), e11120.
+
+Parbery-Clark, A., Anderson, S., Hittner, E., & Kraus, N. (2012). Musical experience offsets age-related delays in neural timing. Neurobiology of Aging, 33(7), 1483.e1-1483.e4.
+
+Przybylski, L., Bedoin, N., Krifi-Papoz, S., Herbillon, V., Roch, D., Léculier, L., ... & Tillmann, B. (2013). Rhythmic auditory stimulation influences syntactic processing in children with developmental language disorders. Neuropsychology, 27(1), 121-131.
+
+Rammsayer, T., & Altenmüller, E. (2006). Temporal information processing in musicians and nonmusicians. Music Perception, 24(1), 37-48.
+
+Salimpoor, V. N., Benovoy, M., Larcher, K., Dagher, A., & Zatorre, R. J. (2011). Anatomically distinct dopamine release during anticipation and experience of peak emotion to music. Nature Neuroscience, 14(2), 257-262.
+
+Schellenberg, E. G. (2004). Music lessons enhance IQ. Psychological Science, 15(8), 511-514.
+
+Schlaug, G., Jäncke, L., Huang, Y., Staiger, J. F., & Steinmetz, H. (1995). Increased corpus callosum size in musicians. Neuropsychologia, 33(8), 1047-1055.
+
+Schlaug, G., Marchina, S., & Norton, A. (2009). Evidence for plasticity in white-matter tracts of patients with chronic Broca's aphasia undergoing intense intonation-based speech therapy. Annals of the New York Academy of Sciences, 1169(1), 385-394.
+
+Schneider, P., Scherg, M., Dosch, H. G., Specht, H. J., Gutschalk, A., & Rupp, A. (2002). Morphology of Heschl's gyrus reflects enhanced activation in the auditory cortex of musicians. Nature Neuroscience, 5(7), 688-694.
+
+Slevc, L. R., & Miyake, A. (2006). Individual differences in second-language proficiency: Does musical ability matter? Psychological Science, 17(8), 675-681.
+
+Slater, J., Strait, D. L., Skoe, E., O'Connell, S., Thompson, E., & Kraus, N. (2014). Longitudinal effects of group music instruction on literacy skills in low-income children. PloS One, 9(11), e113383.
+
+Sluming, V., Barrick, T., Howard, M., Cezayirli, E., Mayes, A., & Roberts, N. (2002). Voxel-based morphometry reveals increased gray matter density in Broca's area in male symphony orchestra musicians. NeuroImage, 17(3), 1613-1622.
+
+Southgate, D. E., & Roscigno, V. J. (2009). The impact of music on childhood and adolescent achievement. Social Science Quarterly, 90(1), 4-21.
+
+Steele, C. J., Bailey, J. A., Zatorre, R. J., & Penhune, V. B. (2013). Early musical training and white-matter plasticity in the corpus callosum: Evidence for a sensitive period. Journal of Neuroscience, 33(3), 1282-1290.
+
+Strait, D. L., Parbery-Clark, A., O'Connell, S., & Kraus, N. (2013). Biological impact of preschool music classes on processing speech in noise. Developmental Cognitive Neuroscience, 6, 51-60.
+
+Strait, D. L., Slater, J., O'Connell, S., & Kraus, N. (2015). Music training relates to the development of neural mechanisms of selective auditory attention. Developmental Cognitive Neuroscience, 12, 94-104.
+
+Thaut, M. H., McIntosh, G. C., & Hoemberg, V. (2015). Neurobiological foundations of neurologic music therapy: Rhythmic entrainment and the motor system. Frontiers in Psychology, 5, 1185.
+
+Tierney, A., & Kraus, N. (2013). Music training for the development of reading skills. Progress in Brain Research, 207, 209-241.
+
+Ukkola-Vuoti, L., Kanduri, C., Oikkonen, J., Buck, G., Blancher, C., Raijas, P., Karma, K., Lähdesmäki, H., & Järvelä, I. (2013). Genome-wide copy number variation analysis in extended families and unrelated individuals characterized for musical aptitude and creativity in music. PloS One, 8(2), e56356.
+
+Vaughn, K. (2000). Music and mathematics: Modest support for the oft-claimed relationship. Journal of Aesthetic Education, 34(3/4), 149-166.
+
+Wong, P. C., Skoe, E., Russo, N. M., Dees, T., & Kraus, N. (2007). Musical experience shapes human brainstem encoding of linguistic pitch patterns. Nature Neuroscience, 10(4), 420-422.
+
+Wu, Y. C., Zheng, X., Wu, Q., Zuo, X. N., Zhang, H. J., & Yao, D. Z. (2015). Brain gray matter changes in professional classical musicians: a voxel-based morphometric study. Chinese Journal of Contemporary Neurology & Neurosurgery, 15(3), 195-200.
+
+Zendel, B. R., & Alain, C. (2012). Musicians experience less age-related decline in central auditory processing. Psychology and Aging, 27(2), 410-417.
+
+Zuk, J., Benjamin, C., Kenyon, A., & Gaab, N. (2014). Behavioral and neural correlates of executive functioning in musicians and non-musicians. PloS One, 9(6), e99868.
